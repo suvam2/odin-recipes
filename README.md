@@ -1,0 +1,1 @@
+Learned varios tags, ordered lists, unordered lists, links images
